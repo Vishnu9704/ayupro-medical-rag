@@ -1,5 +1,0 @@
-venv/
-.env
-.DS_Store
-models/
-chroma_db/

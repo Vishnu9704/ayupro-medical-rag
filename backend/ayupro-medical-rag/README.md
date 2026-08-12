@@ -1,1 +1,0 @@
-# ayupro-medical-rag
