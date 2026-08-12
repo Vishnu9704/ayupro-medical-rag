@@ -1,0 +1,8 @@
+boto3
+python-dotenv
+pymysql
+PyMuPDF
+langchain
+langchain-community
+chromadb
+sentence-transformers
